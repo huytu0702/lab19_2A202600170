@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": "founding",
+    "question": "Who founded OpenAI and in what year?",
+    "reference_answer": "OpenAI was founded in 2015 by figures including Sam Altman and Elon Musk."
+  },
+  {
+    "id": 2,
+    "category": "relationship",
+    "question": "What is the relationship between Google DeepMind and AlphaGo?",
+    "reference_answer": "AlphaGo is an AI system developed by DeepMind, which later became Google DeepMind after integration with Google AI."
+  },
+  {
+    "id": 3,
+    "category": "product_company",
+    "question": "Which company is associated with Claude and who founded it?",
+    "reference_answer": "Claude is associated with Anthropic, founded by Dario Amodei and Daniela Amodei with other co-founders."
+  },
+  {
+    "id": 4,
+    "category": "infrastructure",
+    "question": "How is NVIDIA connected to modern AI model development?",
+    "reference_answer": "NVIDIA provides GPUs and AI computing platforms used to train and deploy large AI models."
+  },
+  {
+    "id": 5,
+    "category": "product_domain",
+    "question": "What products are tied to IBM Watson and in which domains are they used?",
+    "reference_answer": "IBM Watson products are used in domains such as enterprise analytics, customer service, and healthcare-oriented AI solutions."
+  },
+  {
+    "id": 6,
+    "category": "temporal_comparison",
+    "question": "Among OpenAI, Anthropic, and Mistral AI, which was founded most recently?",
+    "reference_answer": "Mistral AI was founded most recently compared with OpenAI and Anthropic."
+  },
+  {
+    "id": 7,
+    "category": "model_link",
+    "question": "What links Meta AI with the Llama model family?",
+    "reference_answer": "Meta AI develops and releases the Llama family of large language models."
+  },
+  {
+    "id": 8,
+    "category": "open_source",
+    "question": "How is Hugging Face related to open-source AI tools?",
+    "reference_answer": "Hugging Face provides open-source libraries, model hubs, and tooling widely used in the AI ecosystem."
+  },
+  {
+    "id": 9,
+    "category": "diffusion",
+    "question": "What company is connected to Stable Diffusion?",
+    "reference_answer": "Stable Diffusion is closely associated with Stability AI and collaborating research contributors."
+  },
+  {
+    "id": 10,
+    "category": "enterprise_nlp",
+    "question": "How is Cohere connected to enterprise NLP?",
+    "reference_answer": "Cohere builds language models and APIs targeted at enterprise NLP and generative AI use cases."
+  },
+  {
+    "id": 11,
+    "category": "comparison",
+    "question": "Compare OpenAI and Anthropic by founders and flagship products.",
+    "reference_answer": "OpenAI is linked to founders such as Sam Altman and Elon Musk and products like ChatGPT/GPT models, while Anthropic is linked to Dario and Daniela Amodei and products like Claude."
+  },
+  {
+    "id": 12,
+    "category": "multi_hop",
+    "question": "Which entities are two hops away from Sam Altman in this AI-company graph?",
+    "reference_answer": "Two-hop entities from Sam Altman typically include organizations and products connected through OpenAI relationships."
+  },
+  {
+    "id": 13,
+    "category": "product_origin",
+    "question": "What company developed ChatGPT and what related entities are commonly linked nearby?",
+    "reference_answer": "ChatGPT was developed by OpenAI, with nearby linked entities often including GPT model versions and notable founders or executives."
+  },
+  {
+    "id": 14,
+    "category": "organization_links",
+    "question": "What does DeepMind connect to besides Google?",
+    "reference_answer": "Beyond Google, DeepMind connects to AI systems and research outputs such as AlphaGo and other model/research entities."
+  },
+  {
+    "id": 15,
+    "category": "generative_ai",
+    "question": "Which companies in the corpus are related to generative AI platforms?",
+    "reference_answer": "Companies such as OpenAI, Anthropic, Meta AI, Cohere, Mistral AI, and Stability AI are related to generative AI platforms or models."
+  },
+  {
+    "id": 16,
+    "category": "safety",
+    "question": "What organization is linked to model safety research?",
+    "reference_answer": "Anthropic is strongly linked to AI safety-oriented model research, and other organizations may also include safety efforts."
+  },
+  {
+    "id": 17,
+    "category": "chips_training",
+    "question": "How are AI chips and model training connected in this corpus?",
+    "reference_answer": "AI chips, especially GPUs from companies like NVIDIA, are core infrastructure enabling large-scale model training."
+  },
+  {
+    "id": 18,
+    "category": "talent_links",
+    "question": "Which companies appear connected through shared founders or talent movement?",
+    "reference_answer": "OpenAI, Anthropic, and other AI labs can be connected via founder histories and talent movement across organizations."
+  },
+  {
+    "id": 19,
+    "category": "healthcare",
+    "question": "What evidence links IBM Watson to healthcare use cases?",
+    "reference_answer": "IBM Watson has documented healthcare-related initiatives, including clinical decision support and health data applications."
+  },
+  {
+    "id": 20,
+    "category": "mistral_products",
+    "question": "What relationships connect Mistral AI to its model products?",
+    "reference_answer": "Mistral AI is connected to model families it develops and releases as part of its generative AI offerings."
+  }
+]
