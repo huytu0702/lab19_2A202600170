@@ -1,5 +1,8 @@
 # Lab19 GraphRAG vs FlatRAG Benchmark
 
+**Họ và tên:** Nguyễn Huy Tú  
+**MSV:** 2A202600170
+
 ## Mục tiêu
 So sánh chất lượng trả lời giữa **GraphRAG** và **FlatRAG** trên bộ câu hỏi đánh giá, đồng thời theo dõi chi phí và độ trễ.
 
