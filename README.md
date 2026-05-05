@@ -15,6 +15,18 @@ So sánh chất lượng trả lời giữa **GraphRAG** và **FlatRAG** trên b
 - **FlatRAG**: truy hồi vector từ Chroma và sinh câu trả lời từ context truy hồi.
 - Thiết lập hiện tại của FlatRAG: `k=1` chunk (`src/flat_rag.py:26`).
 
+## Chi phí dựng GraphRAG (ingest)
+Nguồn: `results/ingest_usage.json`
+
+- Model ingest: `gpt-5.4-mini`
+- Số tài liệu: **10**
+- Raw triples: **540**
+- Deduped triples: **540**
+- Total tokens: **16754**
+- Estimated cost: **0.0530805 USD**
+- Total latency: **106906.70 ms** (~**106.91s**)
+- Avg latency/chunk: **3959.51 ms**
+
 ## Cách đánh giá (hiện tại)
 Đánh giá đã chuyển từ RAGAS sang **LLM-judge** trong `src/evaluate.py`:
 - Judge nhận `question`, `candidate_answer`, `reference_answer`.
