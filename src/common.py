@@ -12,7 +12,7 @@ from openai import OpenAI
 
 load_dotenv(dotenv_path=Path(__file__).resolve().parents[1] / ".env", override=True)
 
-MODEL_NAME = os.getenv("LLM_MODEL", "gpt-5.4-mini")
+MODEL_NAME = os.getenv("OPENAI_MODEL") or os.getenv("LLM_MODEL", "gpt-4o-mini")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_API_BASE = os.getenv("OPENAI_API_BASE")
 

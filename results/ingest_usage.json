@@ -7,7 +7,7 @@
     "input_tokens": 5950,
     "output_tokens": 10804,
     "total_tokens": 16754,
-    "estimated_cost_usd": 0.0,
+    "estimated_cost_usd": 0.053080499999999996,
     "latency_ms_total": 106906.69610002078,
     "latency_ms_avg": 3959.5072629637325
   },
@@ -19,7 +19,7 @@
       "output_tokens": 390,
       "total_tokens": 646,
       "latency_ms": 4584.051699988777,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.001947
     },
     {
       "doc": "anthropic",
@@ -28,7 +28,7 @@
       "output_tokens": 525,
       "total_tokens": 776,
       "latency_ms": 3776.5127000166103,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.00255075
     },
     {
       "doc": "cohere",
@@ -37,7 +37,7 @@
       "output_tokens": 591,
       "total_tokens": 862,
       "latency_ms": 5727.002200001152,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0028627500000000003
     },
     {
       "doc": "cohere",
@@ -46,7 +46,7 @@
       "output_tokens": 96,
       "total_tokens": 191,
       "latency_ms": 2307.785500015598,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.00050325
     },
     {
       "doc": "google_deepmind",
@@ -55,7 +55,7 @@
       "output_tokens": 656,
       "total_tokens": 932,
       "latency_ms": 5002.836200001184,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0031590000000000003
     },
     {
       "doc": "google_deepmind",
@@ -64,7 +64,7 @@
       "output_tokens": 418,
       "total_tokens": 601,
       "latency_ms": 3988.0476999969687,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.00201825
     },
     {
       "doc": "hugging_face",
@@ -73,7 +73,7 @@
       "output_tokens": 625,
       "total_tokens": 908,
       "latency_ms": 4561.524399992777,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0030247499999999997
     },
     {
       "doc": "hugging_face",
@@ -82,7 +82,7 @@
       "output_tokens": 83,
       "total_tokens": 176,
       "latency_ms": 2026.9219000183512,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.00044324999999999996
     },
     {
       "doc": "ibm_watson",
@@ -91,7 +91,7 @@
       "output_tokens": 374,
       "total_tokens": 631,
       "latency_ms": 4634.773099998711,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.00187575
     },
     {
       "doc": "ibm_watson",
@@ -100,7 +100,7 @@
       "output_tokens": 208,
       "total_tokens": 364,
       "latency_ms": 4096.453000005567,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.001053
     },
     {
       "doc": "meta_ai",
@@ -109,7 +109,7 @@
       "output_tokens": 549,
       "total_tokens": 832,
       "latency_ms": 4095.3739999968093,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0026827500000000002
     },
     {
       "doc": "meta_ai",
@@ -118,7 +118,7 @@
       "output_tokens": 107,
       "total_tokens": 204,
       "latency_ms": 2521.1234999878798,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0005542500000000001
     },
     {
       "doc": "mistral_ai",
@@ -127,7 +127,7 @@
       "output_tokens": 771,
       "total_tokens": 1058,
       "latency_ms": 5369.06799999997,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.00368475
     },
     {
       "doc": "mistral_ai",
@@ -136,7 +136,7 @@
       "output_tokens": 209,
       "total_tokens": 358,
       "latency_ms": 3516.1700999888126,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.00105225
     },
     {
       "doc": "nvidia",
@@ -145,7 +145,7 @@
       "output_tokens": 433,
       "total_tokens": 698,
       "latency_ms": 3676.5658000076655,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0021472500000000003
     },
     {
       "doc": "nvidia",
@@ -154,7 +154,7 @@
       "output_tokens": 356,
       "total_tokens": 550,
       "latency_ms": 3470.377499994356,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0017475
     },
     {
       "doc": "openai",
@@ -163,7 +163,7 @@
       "output_tokens": 389,
       "total_tokens": 633,
       "latency_ms": 3291.669099999126,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0019335
     },
     {
       "doc": "openai",
@@ -172,7 +172,7 @@
       "output_tokens": 571,
       "total_tokens": 854,
       "latency_ms": 4351.078699983191,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0027817500000000004
     },
     {
       "doc": "openai",
@@ -181,7 +181,7 @@
       "output_tokens": 435,
       "total_tokens": 706,
       "latency_ms": 5775.427300017327,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.00216075
     },
     {
       "doc": "openai",
@@ -190,7 +190,7 @@
       "output_tokens": 461,
       "total_tokens": 698,
       "latency_ms": 4662.376799999038,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.00225225
     },
     {
       "doc": "openai",
@@ -199,7 +199,7 @@
       "output_tokens": 226,
       "total_tokens": 435,
       "latency_ms": 3147.4425999913365,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0011737499999999999
     },
     {
       "doc": "openai",
@@ -208,7 +208,7 @@
       "output_tokens": 470,
       "total_tokens": 718,
       "latency_ms": 4485.671700007515,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.002301
     },
     {
       "doc": "openai",
@@ -217,7 +217,7 @@
       "output_tokens": 442,
       "total_tokens": 690,
       "latency_ms": 4370.511299988721,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.002175
     },
     {
       "doc": "openai",
@@ -226,7 +226,7 @@
       "output_tokens": 461,
       "total_tokens": 719,
       "latency_ms": 3900.78190001077,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.002268
     },
     {
       "doc": "openai",
@@ -235,7 +235,7 @@
       "output_tokens": 311,
       "total_tokens": 497,
       "latency_ms": 3102.6063000026625,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0015390000000000002
     },
     {
       "doc": "stability_ai",
@@ -244,7 +244,7 @@
       "output_tokens": 549,
       "total_tokens": 813,
       "latency_ms": 4366.366100002779,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0026685
     },
     {
       "doc": "stability_ai",
@@ -253,7 +253,7 @@
       "output_tokens": 98,
       "total_tokens": 204,
       "latency_ms": 2098.1770000071265,
-      "estimated_cost_usd": 0.0
+      "estimated_cost_usd": 0.0005205
     }
   ]
 }

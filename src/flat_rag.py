@@ -23,7 +23,7 @@ def build_vectorstore() -> Chroma:
 
 
 def answer_question(question: str, vectorstore: Chroma) -> dict[str, Any]:
-    retrieved = vectorstore.similarity_search(question, k=5)
+    retrieved = vectorstore.similarity_search(question, k=1)
     context = "\n\n".join([f"[{d.metadata.get('source','unknown')}]\n{d.page_content}" for d in retrieved])
 
     prompt = (
